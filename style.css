@@ -1,0 +1,41 @@
+ header h1 { 
+    text-align:center;
+     height: 60px;
+     width:60 px;
+}
+img {
+    height: 70px;
+    width: 70 px;
+}
+ h2 {
+     text-align: center;
+ }
+ p {
+     text-align: center;
+     font-size: 25px;
+ }
+ img {
+     height:50px;
+     width:50px;
+ }
+ .icons {
+     height:200px;
+    width:480px;
+    border:5px solid rgb(123, 152, 245);
+    border-radius:10px;
+ }
+ body {
+     background-color: rgb(221, 244, 252);
+     font-family:  cursive
+ }
+ footer a {
+    background-color:  rgb(123, 152, 245);;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid  rgb(123, 152, 245);;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+}
